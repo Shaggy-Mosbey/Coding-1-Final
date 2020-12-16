@@ -1,0 +1,26 @@
+img.donny-balboa {
+    height: 850px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.smaller {
+    height: 35px;
+}
+
+.words {
+    color: black;
+}
+
+.contact {
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+    background-size: 1500px;
+}
+
+.now {
+    color: #c9028a;
+    text-align: center;
+}
+
